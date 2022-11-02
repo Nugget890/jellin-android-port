@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-208,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bepixel idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bepixel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-226
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bepixel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-282,
+				-98
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bepixel right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-270,
+				-25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bepixel up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BEPIXEL",
+	"position": [
+		-150,
+		100
+	],
+	"healthicon": "bepixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		215,
+		70
+	],
+	"camera_position": [
+		80,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
