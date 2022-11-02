@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BEPIXEL.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bepixel down0000" x="7" y="7" width="364" height="403" pivotX="0" pivotY="14" frameX="0" frameY="-33" frameWidth="364" frameHeight="436"/>
+	<SubTexture name="bepixel down0001" x="7" y="7" width="364" height="403" frameX="0" frameY="-33" frameWidth="364" frameHeight="436"/>
+	<SubTexture name="bepixel down0002" x="378" y="7" width="338" height="436" frameX="-13" frameY="0" frameWidth="364" frameHeight="436"/>
+	<SubTexture name="bepixel down0003" x="378" y="7" width="338" height="436" frameX="-13" frameY="0" frameWidth="364" frameHeight="436"/>
+	<SubTexture name="bepixel down0004" x="378" y="7" width="338" height="436" frameX="-13" frameY="0" frameWidth="364" frameHeight="436"/>
+	<SubTexture name="bepixel down0005" x="378" y="7" width="338" height="436" frameX="-13" frameY="0" frameWidth="364" frameHeight="436"/>
+	<SubTexture name="bepixel down0006" x="378" y="7" width="338" height="436" frameX="-13" frameY="0" frameWidth="364" frameHeight="436"/>
+	<SubTexture name="bepixel down0007" x="378" y="7" width="338" height="436" frameX="-13" frameY="0" frameWidth="364" frameHeight="436"/>
+	<SubTexture name="bepixel idle0000" x="723" y="7" width="397" height="612" pivotX="0" pivotY="0" frameX="0" frameY="-19" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0001" x="723" y="7" width="397" height="612" frameX="0" frameY="-19" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0002" x="1127" y="7" width="396" height="620" frameX="0" frameY="-11" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0003" x="1127" y="7" width="396" height="620" frameX="0" frameY="-11" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0004" x="1530" y="7" width="391" height="624" frameX="-4" frameY="-7" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0005" x="7" y="638" width="391" height="624" frameX="-4" frameY="-7" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0006" x="405" y="638" width="394" height="631" frameX="-3" frameY="0" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0007" x="405" y="638" width="394" height="631" frameX="-3" frameY="0" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0008" x="806" y="638" width="395" height="630" frameX="-2" frameY="-1" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0009" x="1208" y="638" width="395" height="628" frameX="-2" frameY="-3" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0010" x="1208" y="638" width="395" height="628" frameX="-2" frameY="-3" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0011" x="1208" y="638" width="395" height="628" frameX="-2" frameY="-3" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0012" x="1208" y="638" width="395" height="628" frameX="-2" frameY="-3" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel idle0013" x="1208" y="638" width="395" height="628" frameX="-2" frameY="-3" frameWidth="397" frameHeight="631"/>
+	<SubTexture name="bepixel left0000" x="1610" y="638" width="337" height="578" pivotX="1.25" pivotY="3.15"/>
+	<SubTexture name="bepixel left0001" x="1610" y="638" width="337" height="578"/>
+	<SubTexture name="bepixel left0002" x="7" y="1276" width="304" height="578" frameX="-33" frameY="0" frameWidth="337" frameHeight="578"/>
+	<SubTexture name="bepixel left0003" x="7" y="1276" width="304" height="578" frameX="-33" frameY="0" frameWidth="337" frameHeight="578"/>
+	<SubTexture name="bepixel left0004" x="7" y="1276" width="304" height="578" frameX="-33" frameY="0" frameWidth="337" frameHeight="578"/>
+	<SubTexture name="bepixel left0005" x="7" y="1276" width="304" height="578" frameX="-33" frameY="0" frameWidth="337" frameHeight="578"/>
+	<SubTexture name="bepixel left0006" x="7" y="1276" width="304" height="578" frameX="-33" frameY="0" frameWidth="337" frameHeight="578"/>
+	<SubTexture name="bepixel left0007" x="7" y="1276" width="304" height="578" frameX="-33" frameY="0" frameWidth="337" frameHeight="578"/>
+	<SubTexture name="bepixel right0000" x="318" y="1276" width="343" height="576" pivotX="0" pivotY="0"/>
+	<SubTexture name="bepixel right0001" x="318" y="1276" width="343" height="576"/>
+	<SubTexture name="bepixel right0002" x="668" y="1276" width="295" height="576" frameX="0" frameY="0" frameWidth="343" frameHeight="576"/>
+	<SubTexture name="bepixel right0003" x="668" y="1276" width="295" height="576" frameX="0" frameY="0" frameWidth="343" frameHeight="576"/>
+	<SubTexture name="bepixel right0004" x="668" y="1276" width="295" height="576" frameX="0" frameY="0" frameWidth="343" frameHeight="576"/>
+	<SubTexture name="bepixel right0005" x="668" y="1276" width="295" height="576" frameX="0" frameY="0" frameWidth="343" frameHeight="576"/>
+	<SubTexture name="bepixel right0006" x="668" y="1276" width="295" height="576" frameX="0" frameY="0" frameWidth="343" frameHeight="576"/>
+	<SubTexture name="bepixel right0007" x="668" y="1276" width="295" height="576" frameX="0" frameY="0" frameWidth="343" frameHeight="576"/>
+	<SubTexture name="bepixel up0000" x="970" y="1276" width="235" height="655" pivotX="0" pivotY="0" frameX="-15" frameY="0" frameWidth="264" frameHeight="655"/>
+	<SubTexture name="bepixel up0001" x="970" y="1276" width="235" height="655" frameX="-15" frameY="0" frameWidth="264" frameHeight="655"/>
+	<SubTexture name="bepixel up0002" x="1212" y="1276" width="264" height="613" frameX="0" frameY="-42" frameWidth="264" frameHeight="655"/>
+	<SubTexture name="bepixel up0003" x="1212" y="1276" width="264" height="613" frameX="0" frameY="-42" frameWidth="264" frameHeight="655"/>
+	<SubTexture name="bepixel up0004" x="1212" y="1276" width="264" height="613" frameX="0" frameY="-42" frameWidth="264" frameHeight="655"/>
+	<SubTexture name="bepixel up0005" x="1212" y="1276" width="264" height="613" frameX="0" frameY="-42" frameWidth="264" frameHeight="655"/>
+	<SubTexture name="bepixel up0006" x="1212" y="1276" width="264" height="613" frameX="0" frameY="-42" frameWidth="264" frameHeight="655"/>
+</TextureAtlas>
